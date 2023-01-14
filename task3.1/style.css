@@ -1,0 +1,27 @@
+#trafficLight {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(31, 31, 184);
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(31, 31, 184);
+}
+
+footer {
+    margin: 20px 0;
+    border-top: 1px solid gray;
+    padding-top: 10px;
+}
+
+h1 {
+    text-align: center;
+}

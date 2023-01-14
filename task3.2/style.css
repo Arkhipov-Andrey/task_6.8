@@ -1,0 +1,38 @@
+#red,
+#yellow,
+#green {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+#conteiner {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    max-width: 120px;
+    height: auto;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(31, 31, 184);
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(31, 31, 184);
+}
+
+footer {
+    margin: 20px 0;
+    border-top: 1px solid gray;
+    padding-top: 10px;
+}
+
+h1 {
+    text-align: center;
+}
